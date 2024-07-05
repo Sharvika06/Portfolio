@@ -137,7 +137,8 @@ const About = () => {
               src={require("../assets/Images/aboutme.png")}
             />
           </div>
-          <div className="lg:w-1/2 justify-center lg:p-5 xl:p-7 md:p-5 flex flex-col items-center text-justify">
+         
+          <div className="lg:w-1/2 justify-center lg:p-5 xl:p-7 md:p-5 flex flex-col items-center text-justify rounded-xl bg-darkblue lg:rounded-2xl">
             <p
               data-aos="zoom-in"
               data-aos-duration="1000"
@@ -182,6 +183,7 @@ const About = () => {
               </button>
             </div>
           </div>
+          
         </div>
         <div className="flex justify-center mt-10">
           <Worker workerUrl={`https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js`}>
