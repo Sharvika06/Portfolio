@@ -30,7 +30,7 @@ function Timeline() {
             date: "March 2019 - June 2021",
             title: "Software Developer",
             company: "Tech Mahindra",
-            description: "Worked on React.js, C++ and Selenium"
+            description: "Worked on React.js, C++ ,unit and integration testing and CI/CD pipeline."
         },
     ];
 
