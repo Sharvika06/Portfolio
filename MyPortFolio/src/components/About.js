@@ -174,7 +174,7 @@ const About = () => {
               </button>
               <button className="inline-flex font-medium text-white bg-dark-orange border-2 border-dark-orange py-3 px-7 focus:outline-none hover:bg-cornsilk hover:border-dark-orange hover:text-black rounded-full text-md xl:px-10">
                 <a
-                  href="/resume.pdf"
+                  href="https://drive.google.com/file/d/19qEJZKxRVZgjb_BQSrlpSgVFADWbnVTJ/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
