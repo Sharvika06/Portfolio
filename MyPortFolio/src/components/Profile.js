@@ -90,15 +90,15 @@ const Profile = () => {
               </Link>
             </button>
        
-              <button className="inline-flex font-medium text-white bg-dark-orange border-2 border-dark-orange py-3 px-7 focus:outline-none hover:bg-cornsilk hover:border-dark-orange hover:text-black rounded-full text-md xl:px-10">
-                <a
-                  href="https://drive.google.com/file/d/19qEJZKxRVZgjb_BQSrlpSgVFADWbnVTJ/view?usp=sharing"
+              // <button className="inline-flex font-medium text-white bg-dark-orange border-2 border-dark-orange py-3 px-7 focus:outline-none hover:bg-cornsilk hover:border-dark-orange hover:text-black rounded-full text-md xl:px-10">
+              //   <a
+              //     href="https://drive.google.com/file/d/19qEJZKxRVZgjb_BQSrlpSgVFADWbnVTJ/view?usp=sharing"
             
-                  rel="noreferrer"
-                >
-                  Get Resume
-                </a>
-              </button>
+              //     rel="noreferrer"
+              //   >
+              //     Get Resume
+              //   </a>
+              // </button>
           </div>
         </div>
       </div>
